@@ -24,6 +24,7 @@ This list contains machine learning and deep learning algorithms grouped by cate
 
 - Bayesian Algorithms
   - [Naive Bayes](https://medium.com/analytics-vidhya/na%C3%AFve-bayes-algorithm-5bf31e9032a2)
+    * [Video explanation of Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA&ab_channel=StatQuestwithJoshStarmer)
   - [Gaussian Naive Bayes](https://medium.com/@LSchultebraucks/gaussian-naive-bayes-19156306079b)
   - [Averaged One-Dependence Estimators (AODE)](https://en.wikipedia.org/wiki/Averaged_one-dependence_estimators)
   - [Bayesian Network (BN)](https://towardsdatascience.com/basics-of-bayesian-network-79435e11ae7b)
