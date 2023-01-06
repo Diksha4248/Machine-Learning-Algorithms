@@ -6,7 +6,7 @@ This list contains machine learning and deep learning algorithms grouped by cate
 ## List of Algorithms
 
 - Regression Algorithms
-  - [Linear Regression](https://towardsdatascience.com/linear-regression-using-least-squares-a4c3456e8570)
+  - [Linear Regression](https://www.javatpoint.com/linear-regression-in-machine-learning)
   - [Logistic Regression](https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389)
   - [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
   - [Multivariate Adaptive Regression Splines (MARS)](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
