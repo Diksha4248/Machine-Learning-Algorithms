@@ -7,7 +7,7 @@ This list contains machine learning and deep learning algorithms grouped by cate
 
 - Regression Algorithms
   - [Linear Regression](https://www.javatpoint.com/linear-regression-in-machine-learning)
-  - [Logistic Regression](https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389)
+  - [Logistic Regression](https://www.javatpoint.com/logistic-regression-in-machine-learning)
   - [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
   - [Multivariate Adaptive Regression Splines (MARS)](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
   - [Locally Estimated Scatterplot Smoothing (LOESS)](https://towardsdatascience.com/loess-373d43b03564)
