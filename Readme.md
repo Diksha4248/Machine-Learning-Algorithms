@@ -14,7 +14,7 @@ This list contains machine learning and deep learning algorithms grouped by cate
 
 - Instance-Based Algorithms
   - [k-Nearest Neighbor (kNN)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-  * [Video explanation of KNN](https://www.youtube.com/watch?v=HVXime0nQeI)
+    * [Video explanation of KNN](https://www.youtube.com/watch?v=HVXime0nQeI)
   - [Self-Organizing Map (SOM)](https://towardsdatascience.com/self-organizing-maps-ff5853a118d4)
   - [Support Vector Machines (SVM)](https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496)
 
